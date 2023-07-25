@@ -1,0 +1,46 @@
+[
+  {
+    "name": "iphone",
+    "price": 123,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "joystick",
+    "price": 123,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "ipad",
+    "price": 123,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "mouse",
+    "price": 123,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "speaker",
+    "price": 123,
+    "company": "OnePlus"
+  },
+  {
+    "name": "laptop",
+    "price": 123,
+    "company": "apple"
+  },
+  {
+    "name": "keybord",
+    "price": 123,
+    "company": "Mi"
+  },
+  {
+    "name": "charger",
+    "price": 123,
+    "company": "samsung"
+  }
+]
